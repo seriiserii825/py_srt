@@ -1,0 +1,13 @@
+[project]
+name = "py-srt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "autopep8>=2.3.2",
+    "flake8>=7.3.0",
+    "mypy>=1.18.2",
+    "srtranslator>=0.3.9",
+    "translatepy>=2.3",
+]
